@@ -1,0 +1,6 @@
+algorithmic-trading/
+.ipynb_checkpoints/
+**/secrets.py
+.DS_Store
+__pycache__
+venv/
